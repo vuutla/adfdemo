@@ -1,0 +1,9 @@
+{
+	"name": "ADFPIPELINEDEV",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7eca3751-be0f-4802-a5ca-0902bbcfa748",
+		"tenantId": "c213dc5a-1792-4a1a-8522-16334120fb32"
+	}
+}
